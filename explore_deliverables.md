@@ -5,7 +5,7 @@ The “Explore” phase deliverables and work periods are as follows (deliverabl
 
 ###Nov 19 - 30: Intro and Exploring Problems/Challenges###
 * [Introductory MSL blog post, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/intro_interview.md)  <<point person: Zannah 
-* Blog post on defining the difficulty or opportunity you hope to address <<point person: Zannah 
+* [Writing Exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/challenge_exercise.md) and blog post on defining the difficulty or opportunity you hope to address <<point person: Zannah 
 
 ###Dec 1-11: Idea Development###
 * Concise statement of idea, with SWOT <<point person: Kaitlin

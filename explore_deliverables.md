@@ -4,7 +4,7 @@ We’d like you to document your project development process to let our communit
 The “Explore” phase deliverables and work periods are as follows (deliverables are due on the last day of the period). We've assigned point people who can help you with questions and clarifications about the task: 
 
 ###Nov 19 - 30: Intro and Exploring Problems/Challenges###
-* Introductory MSL blog post, interview format  <<point person: Zannah 
+* [Introductory MSL blog post, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/intro_interview.md)  <<point person: Zannah 
 * Blog post on defining the difficulty or opportunity you hope to address <<point person: Zannah 
 
 ###Dec 1-11: Idea Development###

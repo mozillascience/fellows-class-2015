@@ -10,7 +10,7 @@
 
 ###RESOURCES
 
-Go through these sections, *people*, *process*, *technology* and *physical*, and record the resources you'll need to work on your fellowship project. If you need funding for any of these, add a note.
+Go through these sections, *people*, *process*, *technology*, *physical* and *Mozilla* and record the resources you'll need to work on your fellowship project. If you need funding for any of these, add a note.
 
 ####PEOPLE
 What kind of contributors will you need?
@@ -64,4 +64,19 @@ Most of these should be taken care of during your fellowship, but just in case:
 * Workspace
 * Phone line
 * Promotional Materials *(funding)*
+
+####WHAT DO YOU NEED FROM MOZILLA?
+What resources can we provide?
+* People
+  * Kaitlin
+  * Zannah
+  * Steph
+  * Arliss
+  * Abby
+  * Other MoFo / MoCos
+* Training
+* Travel
+* Expertise
+* Community
+* Other resources
 

@@ -19,7 +19,7 @@ What kind of contributors will you need?
   - [ ] JavaScript developers, 
   - [ ] Alzheimer specialists, 
   - [ ] others
-* These experts can all contribute in differnt ways. What roles are you looking for?
+* These experts can all contribute in different ways. What roles are you looking for?
   - [ ] Testing. Do you need input from testers as you build?
   - [ ] Documentation
   - [ ] Input

@@ -42,7 +42,7 @@ Part of working open is creating processess that allow outsiders to contribute t
 
 **Contributor pathway / Sustainability plan**
 
-You won't be around to run this project forever. Will you need to start finding contributors who could take on project maintenance? If so, you'll need processess that identify good contributors, encourage and reward them and increasingly delegate project maintenance responsibilities.
+You probably won't be available to run this project forever. Will you need to start finding contributors who could take on project maintenance? If so, you'll need processess that identify good contributors, encourage and reward them and increasingly delegate project maintenance responsibilities.
 * Identifying and encouraging good contributors
   * Recognition (public thanks, swag), increase permissions (commit privilege, module maintenance), delegate responsibility
 * Delegation

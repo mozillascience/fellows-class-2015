@@ -26,13 +26,16 @@ What kind of contributors will you need?
 
 #####PROCESS
 Part of working open is creating processess that allow outsiders to contribute to your project. How will you bring in contributors? How will you share progress and work openly?
+
+**Working with contributors**
 * Onboarding contributors
   * What process does someone go through to become a contributor? (CONTRIBUTING.md)
 * Review process for new code / other contributions
   * This includes setting up the process, writing it down and communicating it to contributors
 * Providing help
-  * Where will you 
+  * Where can others go to ask questions and get help?
 
+**Communicating progress openly**
 * Sharing progress / work done
   * Regular blogging, twitter, available source code
   

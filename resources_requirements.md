@@ -12,7 +12,7 @@
 
 Go through these sections, *people*, *process*, *technology* and *physical*, and record the resources you'll need to work on your fellowship project. If you need funding for any of these, add a note.
 
-#####PEOPLE
+####PEOPLE
 What kind of contributors will you need?
 * What expertise are you looking for? List them all out. 
   - [ ] UX Designers, 
@@ -25,7 +25,7 @@ What kind of contributors will you need?
   - [ ] Input
   - [ ] Development
 
-#####PROCESS
+####PROCESS
 Part of working open is creating processess that allow outsiders to contribute to your project. How will you bring in contributors? How will you share progress and work openly? Write down which processess you'll need to implement as part of your open source project.
 
 **Working with contributors**
@@ -40,7 +40,7 @@ Part of working open is creating processess that allow outsiders to contribute t
 * Sharing progress / work done
   * Regular blogging, twitter, available source code
   
-#####TECHNOLOGY
+####TECHNOLOGY
 What technology will you need to build out and share your project? 
 * Hardware
   * What do you need for development?
@@ -51,7 +51,7 @@ What technology will you need to build out and share your project?
 * Blogging platform *(maybe funding)*
 * Twitter account
 
-#####PHYSICAL
+####PHYSICAL
 Most of these should be taken care of during your fellowship, but just in case:
 * Workspace
 * Phone line

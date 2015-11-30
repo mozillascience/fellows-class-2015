@@ -52,7 +52,7 @@ What technology will you need to build out and share your project?
 * Twitter account
 
 #####PHYSICAL
-These should already be taken care of during your fellowship, but just in case:
+Most of these should be taken care of during your fellowship, but just in case:
 * Workspace
 * Phone line
 * Promotional Materials *(funding)*

@@ -1,4 +1,4 @@
-###RESOURCES REQUIREMENTS
+###RESOURCES REQUIREMENTS & SUSTAINABILITY PLAN
 
 **GOAL:** This excise will help you scope out the resources you'll need to work openly and transparently on your project. By considering these upfront, you'll be better equiped to collaborate with others and share out your progress.
 
@@ -28,6 +28,10 @@ What kind of contributors will you need?
 ####PROCESS
 Part of working open is creating processess that allow outsiders to contribute to your project. How will you bring in contributors? How will you share progress and work openly? Write down which processess you'll need to implement as part of your open source project.
 
+**Communicating progress openly**
+* Sharing progress / work done
+  * Regular blogging, twitter, available source code
+  
 **Working with contributors**
 * Onboarding contributors
   * What process does someone go through to become a contributor? (CONTRIBUTING.md)
@@ -36,10 +40,14 @@ Part of working open is creating processess that allow outsiders to contribute t
 * Providing help
   * Where can others go to ask questions and get help?
 
-**Communicating progress openly**
-* Sharing progress / work done
-  * Regular blogging, twitter, available source code
-  
+**Contributor pathway / Sustainability plan**
+
+You won't be around to run this project forever. Will you need to start finding contributors who could take on project maintenance? If so, you'll need processess that identify good contributors, encourage and reward them and increasingly delegate project maintenance responsibilities.
+* Identifying and encouraging good contributors
+  * Recognition (public thanks, swag), increase permissions (commit privilege, module maintenance), delegate responsibility
+* Delegation
+  * At what point will you grant commit privilege? module maintenance? project maintenance?
+
 ####TECHNOLOGY
 What technology will you need to build out and share your project? 
 * Hardware

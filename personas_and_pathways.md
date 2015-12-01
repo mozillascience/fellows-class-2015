@@ -32,7 +32,7 @@ Pick at least two members or potential members from the lists you collected abov
 * Consider challenges. What is difficult for your persona? What might be their stumbling blocks? What skills or resources are they missing that they”ll need to better engage with the project? What kinds of things might drive them away from your project?
 * Write it up! Take the details and information you’ve provided above and write a short description, as per this example. If some of the goals and motivations you imagined don’t fit here, add them as a list on at the end.
 
-**Sample Persona Write-Up**
+Sample Persona Write-Up:
 
 *Rashid is a PhD student in astronomy at a university in Southern England. He’s outgoing and a snappy dresser, favoring skinny jeans and colorful cardigans. He lives in on-campus housing and after a long day at the lab he usually rushes home to see his wife and infant son. Rashid took an intro Java programming course long ago, as an undergrad, but his research now demands Python skills.  He attended a two-day Software Carpentry workshop at his institution. He found the training valuable but has encountered difficulties in debugging and troubleshooting since the workshop, and is struggling on his own. Because of the competitive nature of his lab, he’s reluctant to ask colleagues for help. He follows Science Labs on Twitter, has some exposure to and interest to Open Science, but is hesitant to share his data for fear of being “scooped” on an important discovery. Motivators: publishing and tenure, excitement of learning new things; Skills: good interpersonal skills, charming, friendly; Challenges: limited time, may relocate to take a postdoc position in the next year.*
 
@@ -52,7 +52,7 @@ For a given contributor, we might move them from level 0 to level 2, or level 3 
 
 When applied to a persona, the pathway is like a little story of the persona's history with the project. 
 
-**An example pathway for Rashid, from level 1 to level 3 or 4 might be:**
+An example pathway for Rashid, from level 1 to level 3 or 4 might be:
 
 *Rashid sees a flier advertising Python study group meeting up in his lab; he arranges with his wife to be home late that night and attends the meeting
 At the meeting he’s greeted warmly; it’s an interdisciplinary crowd so he feels more at ease. The intro lessons are helpful, he makes a connection with another learner, a biologist, and he leaves feeling hopeful about learning python and makes some progress during the week

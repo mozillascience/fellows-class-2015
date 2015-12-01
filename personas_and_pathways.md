@@ -6,7 +6,7 @@
 
 **TECHNOLOGY:** A timer or stopwatch to time your freewrites. Pen and paper are here, over 
 
-TIME TO COMPLETE: about 45 minutes to 1 hour
+**TIME TO COMPLETE:** about 45 minutes to 1 hour
 
 **About Personas:** We’ll use tool called a “persona” which is commonly used in the design world, to help create products and experiences that really work for real world users  (aka “user-centered design”). The persona is a totally imaginary person, but one who is based on real-world observations and understandings of actual potential or current users. We may (and almost always should) do some real-world user research in advance of developing our personas. But it’s important that the personas are imaginary, so we’re free to envision full user stories and motivations without needing to be factual.
 

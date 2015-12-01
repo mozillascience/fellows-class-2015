@@ -2,7 +2,7 @@
 
 **GOAL:** This excise will help you scope out the resources you'll need to work openly and transparently on your project. By considering these upfront, you'll be better equiped to collaborate with others and share out your progress.
 
-**FORMAT:** Checklist. Go through each section and decide what is applicable and needed for your project. Write these down.
+**FORMAT:** Resource requirements document. 
 
 **TIME TO COMPLETE:** 30 mins - 1 hour.
 
@@ -14,7 +14,7 @@ Go through these sections, *people*, *process*, *technology*, *physical* and *Mo
 
 ####PEOPLE
 What kind of contributors will you need?
-* What expertise are you looking for? List them all out. 
+* What expertise are you looking for? List them all out. E.g.
   - [ ] UX Designers, 
   - [ ] JavaScript developers, 
   - [ ] Alzheimer specialists, 
@@ -67,7 +67,7 @@ Most of these should be taken care of during your fellowship, but just in case:
 
 ####WHAT DO YOU NEED FROM MOZILLA?
 What resources can we provide?
-* People
+* People: Do you need anything specifically from each of us? We're here to provide help, training, resources, code reviews. Just let us know!
   * Kaitlin
   * Zannah
   * Steph

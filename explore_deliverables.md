@@ -8,7 +8,7 @@ The “Explore” phase deliverables and work periods are as follows (deliverabl
 * [Writing Exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/challenge_exercise.md) and blog post on defining the difficulty or opportunity you hope to address <<point person: Zannah 
 
 ###Dec 1-11: Idea Development###
-* Concise statement of idea, with SWOT <<point person: Kaitlin
+* [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/project_description_exercise.md) <<point person: Kaitlin
 * User/Collaborator personas & pathways exercise <<point person: Zannah
 * Resources requirements & sustainability plan <<point person: Abby 
 

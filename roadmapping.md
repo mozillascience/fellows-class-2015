@@ -10,7 +10,7 @@
 
 ###ROADMAPPING
 
-Once your community decides what to work on, write it down! Creating a roadmap helps others understand the current status of your project and where it's going next. A roadmap can also express your vision for the project. Make sure you clearly state why you are implementing certain things to get people excited about joining.
+Creating a roadmap helps others understand the current status of your project and where it's going next. A roadmap can also express your vision for the project. Make sure you clearly state why you are implementing certain things to get people excited about joining.
 
 This can be as simple as a collection of issues in your issue tracker, or a detailed timeline complete with milestones. It's up to you to choose what works best for your community!
 

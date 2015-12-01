@@ -29,10 +29,10 @@ Pick at least two members or potential members from the lists you collected abov
 * Identify Skills. What skills or abilities does this persona bring? Could be technical skills, like Javascript or R, or could be “soft skills” like being a terrific communicator or storyteller, well-organized, reliable, etc.
 * Consider challenges. What is difficult for your persona? What might be their stumbling blocks? What skills or resources are they missing that they”ll need to better engage with the project? What kinds of things might drive them away from your project?
 * Write it up! Take the details and information you’ve provided above and write a short description, as per this example. If some of the goals and motivations you imagined don’t fit here, add them as a list on at the end.
-```
+
 **Sample Persona Write-Up**
 *Rashid is a PhD student in astronomy at a university in Southern England. He’s outgoing and a snappy dresser, favoring skinny jeans and colorful cardigans. He lives in on-campus housing and after a long day at the lab he usually rushes home to see his wife and infant son. Rashid took an intro Java programming course long ago, as an undergrad, but his research now demands Python skills.  He attended a two-day Software Carpentry workshop at his institution. He found the training valuable but has encountered difficulties in debugging and troubleshooting since the workshop, and is struggling on his own. Because of the competitive nature of his lab, he’s reluctant to ask colleagues for help. He follows Science Labs on Twitter, has some exposure to and interest to Open Science, but is hesitant to share his data for fear of being “scooped” on an important discovery. Motivators: publishing and tenure, excitement of learning new things; Skills: good interpersonal skills, charming, friendly; Challenges: limited time, may relocate to take a postdoc position in the next year.*
-```
+
 * Add A Visual To really bring your persona to life, find an image that you can assign to them (google image search or stock photos work great).  
 
 **3. Create A Pathway For Your Persona**
@@ -48,13 +48,13 @@ Level 5 - Sustained Leadership
 For a given contributor, we might move them from level 0 to level 2, or level 3 to level 4? Our sample persona, Rashid, is probably at level 1-- solitary action. He's interested in open science, but working alone. How can we get him to Level 3 where he's begining to collaborate and work with others? How might he get to level 4, where he's beginning to teach or lead within his community? 
 
 When applied to a persona, the pathway is like a little story of the persona's history with the project. An example starting pathway might be:
-```
+
 *Rashid sees a flier advertising Python study group meeting up in his lab; he arranges with his wife to be home late that night and attends the meeting
 At the meeting he’s greeted warmly; it’s an interdisciplinary crowd so he feels more at ease. The intro lessons are helpful, he makes a connection with another learner, a biologist, and he leaves feeling hopeful about learning python and makes some progress during the week
 Rashid can’t arrange with his family to make the next meeting; the study group leader notices he’s absent and follows up, suggesting they meet for lunch, along with the biologist.  
 The lunch meeting turns into a “Hacky Lunch”… Rashid and the biologist end up debugging code then and there, and make plans to meet again the following week.
 The study group leader asks Rashid to share/teach his debugging strategies at a Study Group meeting a few weeks away, so he’ll have time to plan for childcare in advance...*
-```
+
 
 By using the persona and imagining this story, we can begin see what needs to be in place, anticipate struggles and problems, and find solutions. *(brainstorming, writing and ordering pathway steps, 10 mins)*
 

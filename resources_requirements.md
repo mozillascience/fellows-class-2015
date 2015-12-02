@@ -1,4 +1,4 @@
-###RESOURCES REQUIREMENTS & SUSTAINABILITY PLAN
+###RESOURCES REQUIREMENTS
 
 **GOAL:** This excise will help you scope out the resources you'll need to work openly and transparently on your project. By considering these upfront, you'll be better equiped to collaborate with others and share out your progress.
 
@@ -13,7 +13,7 @@
 Go through these sections, *people*, *process*, *technology*, *physical* and *Mozilla* and record the resources you'll need to work on your fellowship project. If you need funding for any of these, add a note.
 
 ####PEOPLE
-What kind of contributors will you need?
+What kind of contributors will you need? Don't forget yourself!
 * What expertise are you looking for? List them all out. E.g.
   - [ ] UX Designers, 
   - [ ] JavaScript developers, 
@@ -42,14 +42,14 @@ Part of working open is creating processess that allow outsiders to contribute t
 
 **Contributor pathway / Sustainability plan**
 
-You probably won't be available to run this project forever. Will you need to start finding contributors who could take on project maintenance? If so, you'll need processess that identify good contributors, encourage and reward them and increasingly delegate project maintenance responsibilities.
+You probably won't be available to run this project forever. Will you need to start finding contributors who could take on project maintenance? If so, you'll need processess that identify good contributors, encourage and reward them and increasingly delegate project maintenance responsibilities. We'll be fleshing out this process in the next exercise.
 * Identifying and encouraging good contributors
   * Recognition (public thanks, swag), increase permissions (commit privilege, module maintenance), delegate responsibility
 * Delegation
   * At what point will you grant commit privilege? module maintenance? project maintenance?
 
 ####TECHNOLOGY
-What technology will you need to build out and share your project? 
+What technology will you need to build out your project and support all the processes needed above?
 * Hardware
   * What do you need for development?
   * Server space *(funding)*

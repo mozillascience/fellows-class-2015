@@ -27,7 +27,7 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 * **irc:**
 * **skype:**
 * **github:**
-* **twitter:**
+* **twitter:** [@arlissc](https://twitter.com/arlissc)
 
 ### Abby 
 

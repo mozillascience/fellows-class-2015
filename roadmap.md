@@ -11,7 +11,7 @@ Over the next 10 months, you'll create amazing projects, build communities, trai
 
 ###TASKS/DELIVERABLES
 
-We've broken the 10 month period into phases, to help you organize your time. Deliverables are for each phase of the project will be listed as that phase nears... The deliverables will help you document your project's evolution, and make your process transparent and reusable for our wider community. We've assigned point people who can help you with questions and clarifications about the task, so look for their names in the Deliverable section. 
+We've broken the 10 month period into phases, to help you organize your time. Deliverables are for each phase of the project will be listed as that phase nears, and sorted into directories named for the phase. The deliverables will help you document your project's evolution, and make your process transparent and reusable for our wider community. We've assigned point people who can help you with questions and clarifications about the task, so look for their names in the Deliverable section. 
 
 See below for a color-coded calendar of the year. All is subject to change/updating. Again, your feedback is welcome!
 
@@ -23,22 +23,22 @@ You’ll be doing project research and development planning exercises and contri
 
 **Nov 19 - 30: Intro and Exploring Problems/Challenges**
 
-* [Introductory MSL blog post, interview format] (https://github.com/mozillascience/fellows-class-2015/blob/master/intro_interview.md) <<point person: Zannah
-* [Writing Exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/challenge_exercise.md) and [blog post](https://github.com/mozillascience/fellows-class-2015/blob/master/challenge_post.md) on defining the difficulty or opportunity you hope to address point person: Zannah (note: draft blog post deadline extended to 12/7)
+* [Introductory MSL blog post, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-intro_interview.md) <<point person: Zannah
+* [Writing Exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-challenge_exercise.md) and [blog post](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-challenge_post.md) on defining the difficulty or opportunity you hope to address point person: Zannah (note: draft blog post deadline extended to 12/7)
 
 
 **Dec 1-11: Idea Development**
 
-* [Describing (and testing) your idea] (https://github.com/mozillascience/fellows-class-2015/blob/master/project_description_exercise.md) <<point person: Kaitlin
-* [User/Collaborator personas & pathways exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/personas_and_pathways.md) <<point person: Zannah
-* [Resources requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/resources_requirements.md) & [Sustainability Plan](https://github.com/mozillascience/fellows-class-2015/blob/master/sustainability_plan.md) <<point person: Abby
+* [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md) <<point person: Kaitlin
+* [User/Collaborator personas & pathways exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-personas_and_pathways.md) <<point person: Zannah
+* [Resources requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-resources_requirements.md) & [Sustainability Plan](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-sustainability_plan.md) <<point person: Abby
 
 **Dec 12 - Jan 6: Project Planning and Pitching**
 
-* Roadmap w/ technical requirements << point person: Abby
+* [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-roadmapping.md) << point person: Abby
 * Project schedule (mapped to calendar) << point person: Arliss
 * Blog post on idea, users, impact <<point person: Zannah
-* Elevator pitch (polished! jargon free, to be presented on Jan 6 call) <<<point people: Steph & Kaitlin (to be presented on Jan 6 call)
+* [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be presented on Jan 6 call) <<<point people: Steph & Kaitlin (to be presented on Jan 6 call)
 * 7 slide presentation (shareable) and/or short video <<point person Kaitlin
 
 

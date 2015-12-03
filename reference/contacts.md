@@ -60,4 +60,4 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 * **skype:** auremoser
 * **github:** [@auremoser](https://github.com/auremoser)
 * **twitter:** [@auremoser](https://twitter.com/auremoser)
-* **areas of expertise:** community building and subways :tram:
+* **areas of expertise:** community building, subways :tram:, and all things maps :round_pushpin:

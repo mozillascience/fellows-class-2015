@@ -1,4 +1,4 @@
-##RESOURCE REQUIREMENTS
+##Resource Requirements.
 
 **GOAL:** This exercise will help you identify resources you'll need to sucessfully complete your project. By considering all potential needs for your project up-front, you'll be able better plan and scope your work, and begin to explore where and how you'll get needed resources, from funding streams to people who contribute skills and expertise. 
 

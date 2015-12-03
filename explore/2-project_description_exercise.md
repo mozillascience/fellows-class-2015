@@ -1,4 +1,4 @@
-###Describing (and testing) your idea
+##Describing (and testing) your idea.
 **GOAL:** Crafting a project description is a way to focus your idea and look at possible opportunities, related work, and weaknesses that may otherwise not be apparent. It's also a way to practice clearly articulating your idea, which often highlights areas that may need rethinking, or need to be pared down. It might help to review your problem/challenge writing exercise before  you get started. 
 
 The exercise below will help guide you through crafting a project description, as well as highlight areas that may need more work. For the questions below, feel free to use bullet points, and try to be as clear and concise as you can. The word counts are listed as guides - don't worry if you go over or under by a few. 

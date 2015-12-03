@@ -1,4 +1,4 @@
-##ROADMAPPING AND TECHNICAL REQUIREMENTS
+##Roadmapping and technical requirements.
 
 **GOAL:** Writing a roadmap will help you plan out your project development during your fellowship year while being transparent about your plans.
 

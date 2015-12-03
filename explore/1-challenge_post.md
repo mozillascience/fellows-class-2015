@@ -1,3 +1,5 @@
+##Writing a Post. 
+
 **GOAL:** Write a blog post about the challenge(s) or problem(s) you hope to address throughout the fellowship. 
 
 **FORMAT:** Post on MSL's blog

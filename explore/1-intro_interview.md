@@ -1,4 +1,4 @@
-###INTRO BLOG POST FOR FELLOWS (interview format)
+##Intro blog post for fellows (interview format).
 
 **GOAL:** We want our community to know about you, where you are coming from, what inspires and motivates your work in open science, and what projects or potential projects you’re excited about. As part of encouraging conversation and engagement within the Fellows cohort, we’re asking you to collaborate on these posts and interview each other.  
 

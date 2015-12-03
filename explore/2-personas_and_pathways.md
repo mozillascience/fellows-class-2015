@@ -1,4 +1,4 @@
-###Personas and Pathways Activity: Connecting with Your Users and Contributors###
+##Personas and Pathways Activity: Connecting with Your Users and Contributors.
 
 **GOAL:** Your open project needs users and contributors, but how can you find them, get them involved, and keep them engaged and active in your community? This activity is designed to help you identify potential users and contributors, understand their goals and motivations, help them find a way into your project, and grow them into strong, committed community members.
 

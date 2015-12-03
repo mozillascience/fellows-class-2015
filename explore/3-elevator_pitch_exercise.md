@@ -1,4 +1,4 @@
-### DEVELOPING AN ELEVATOR PITCH
+## Developing an Elevator Pitch
 
 **WHAT IS AN ELEVATOR PITCH?**  
 An elevator pitch is a brief, persuasive speech that you use to spark interest in an organization, project, idea, product or yourself in the time it takes to ride the elevator from the ninth floor to the lobby (20-30 seconds) where the target of your pitch leaves through the lobby and rides away.

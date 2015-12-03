@@ -1,82 +1,69 @@
-###RESOURCES REQUIREMENTS
+###RESOURCE REQUIREMENTS
 
-**GOAL:** This excise will help you scope out the resources you'll need to work openly and transparently on your project. By considering these upfront, you'll be better equiped to collaborate with others and share out your progress.
+**GOAL:** This exercise will help you identify out resources you'll need to sucessfully complete your project. By considering all potential needs for your project upfront, you'll be able better plan and scope your work, and begin to explore where and how you'll get needed resources, from funding streams to people who contribute skills and expertise. 
 
-**FORMAT:** Resource requirements document. 
+You'll avoid roadblocks and wasted time that can occur when resources aren't in place to when they're needed. 
+
+**FORMAT:** Resource Requirements document.
 
 **TIME TO COMPLETE:** 30 mins - 1 hour.
 
-**TECHNOLOGY:** Your favourite text editor and Markdown. Record and share your findings in your GitHub repository. Either as a file, or in a GitHub issue
+***TECHNOLOGY:** Your favorite text editor and Markdown. Record and share your findings in your GitHub repository.
 
-###RESOURCES
+Go through each of the following sections-- people/skills, technology, and physical/material resources-- and record the what you'll reuquire to complete your project. If you think you'll need funding for any of these, highlight them or add a note.
 
-Go through these sections, *people*, *process*, *technology*, *physical* and *Mozilla* and record the resources you'll need to work on your fellowship project. If you need funding for any of these, add a note.
 
-####PEOPLE
-What kind of contributors will you need? Don't forget yourself!
-* What expertise are you looking for? List them all out. E.g.
-  - [ ] UX Designers, 
-  - [ ] JavaScript developers, 
-  - [ ] Alzheimer specialists, 
-  - [ ] others
-* These experts can all contribute in different ways. What roles are you looking for?
-  - [ ] Testing. Do you need input from testers as you build?
-  - [ ] Documentation
-  - [ ] Input
-  - [ ] Development
+###PEOPLE/SKILLS
+What kind of contributors will you need? What expertise or skills are necessary? For instance, many software projects may benefit from user experience designers or graphic desginers. Curriculum design projects will benefit from review by other skilled instructors. You may want to enlist the help of writers or social media experts to help communicate your project publiclt.
 
-####PROCESS
-Part of working open is creating processess that allow outsiders to contribute to your project. How will you bring in contributors? How will you share progress and work openly? Write down which processess you'll need to implement as part of your open source project.
+Resist the temptation to wear all hats on a project! You may be handy with Photoshop or Illustrator or D3.js, but bringing on volunteers who have those specialized skills will broaden your community of contributors and bring your project to new audiences with fresh persepctives. 
 
-**Communicating progress openly**
-* Sharing progress / work done
-  * Regular blogging, twitter, available source code
-  
-**Working with contributors**
-* Onboarding contributors
-  * What process does someone go through to become a contributor? (CONTRIBUTING.md)
-* Review process for new code / other contributions
-  * This includes setting up the process, writing it down and communicating it to contributors
-* Providing help
-  * Where can others go to ask questions and get help?
+List all the people you'll need onboard to complete your project (and don't forget to add the end users, and include yourself!). Now, take each person/type listed and add the kinds of contributions (output/input) you hope they'll provide, and list the hours you expect you'll need to complete this work. Be realistic about your asks-- you may not find a developer with 40 hours to contribute, but you may know a few people who could contribute shorter chunks of time. This exercise will better help you understand
 
-**Contributor pathway / Sustainability plan**
+You should come up with a matrix that is structured like this:  
 
-You probably won't be available to run this project forever. Will you need to start finding contributors who could take on project maintenance? If so, you'll need processess that identify good contributors, encourage and reward them and increasingly delegate project maintenance responsibilities. We'll be fleshing out this process in the next exercise.
-* Identifying and encouraging good contributors
-  * Recognition (public thanks, swag), increase permissions (commit privilege, module maintenance), delegate responsibility
-* Delegation
-  * At what point will you grant commit privilege? module maintenance? project maintenance?
 
-####TECHNOLOGY
-What technology will you need to build out your project and support all the processes needed above?
-* Hardware
-  * What do you need for development?
-  * Server space *(funding)*
-* System architecture
-  * Node, react, other. This can be higher level for now.
-* Domain name *(funding)*
-* Blogging platform *(maybe funding)*
-* Twitter account
+**SAMPLE MATRIX:**
 
-####PHYSICAL
-Most of these should be taken care of during your fellowship, but just in case:
-* Workspace
-* Phone line
-* Promotional Materials *(funding)*
+Role | Output/Input | Hours Needed | Who Can Help? | Notes
+------------ | ------------- | ------------ | -- | 
+JS Developer| D3 Code for Visualizations  | 30 hrs | Alice | contact her ASAP
+Graphic Designer | Logo and Diagrams | 15 hrs |? ask MSL staff? | how much do designers charge?
+QA Testers | Testing | 4 testers @ 2 hrs each | Email listserv for volunteers | QA will happen in over spring break, students free to help? 
+Users| Use the app! | ongoing, but 1 hour intial engagement | Open Data Community |need PR plan to publicize
 
-####WHAT DO YOU NEED FROM MOZILLA?
-What resources can we provide?
-* People: Do you need anything specifically from each of us? We're here to provide help, training, resources, code reviews. Just let us know!
-  * Kaitlin
-  * Zannah
-  * Steph
-  * Arliss
-  * Abby
-  * Other MoFo / MoCos
-* Training
-* Travel
-* Expertise
-* Community
-* Other resources
+Remember you have some of the time and energy of Mozilla Science Lab staff members available to support your project. Add Kaitlin, Abby, Arliss, Steph, Zannah, and Aurelia to your matrix-- we can provide feedback, tech support, project management or community management consultations, etc.  
+
+We are also happy to connect you to people who can help from the wider Mozilla Foundation and Corporation. 
+
+###TECHNOLOGY
+What technologies will you need to build out your project, maintain it, and build a community of users? List everything you'll need-- from GitHub accounts to any special hardware or developement environment you'll need to work, to server space and domain names. You may need some communications tools, like blogs or a twitter accounts. Note if you'll need funds to maintain any of these going services forward (especially if you plan for your project to be active for years). Create a list for each category, and add additonal catagories if need be. 
+
+If you find a matrix format is more useful here (add columns for costs, etc) go ahead and create that structure. 
+
+Hardware
+
+* item
+* ...
+
+Software/System architecture
+
+* item
+* ...
+        
+Communications Platforms
+
+* item
+* ...
+
+Other...
+
+* item
+* ...
+
+
+
+###PHYSICAL/MATERIAL RESOURCES
+
+You may already have physical resources like a phone line and workspace taken care of via the Fellowship, but if you expect to hold a Sprint, training or other event, you'll need a physical meeting space and materials like signs, fliers, refreshemnts, and swag for your event. You may also want to give t-shirts or stickers to recognize the work of excellent contrbutions. Make a matrix (see avove, in People/SKills) of any physical resources and materials you'll need, the amount, the costs, and how you might source them.  
 

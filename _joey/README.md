@@ -47,7 +47,7 @@ To add files so:
 * navigate to your fellows-class-2015 repository 
 * create a new branch for your name | `git branch joey`
 * move into the branch to make changes | `git checkout joey`
-	* now (on joey's branch), Joey can create | `cd` into your directory, for example `cd fellows-class-2015/joey`
+	* now (on joey's branch), Joey can create | `cd` into your directory, for example `cd fellows-class-2015/_joey`
 	* add files to the folder or make changes to the existing README.md
 	* when done, add them on the CL | `git add .`
 	* commit them | `git commit -m "some message here"`

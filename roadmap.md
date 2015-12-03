@@ -31,7 +31,7 @@ You’ll be doing project research and development planning exercises and contri
 
 * [Describing (and testing) your idea] (https://github.com/mozillascience/fellows-class-2015/blob/master/project_description_exercise.md) <<point person: Kaitlin
 * [User/Collaborator personas & pathways exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/personas_and_pathways.md) <<point person: Zannah
-* Resources requirements & sustainability plan <<point person: Abby (coming soon!)
+* [Resources requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/resources_requirements.md) & [Sustainability Plan](https://github.com/mozillascience/fellows-class-2015/blob/master/sustainability_plan.md) <<point person: Abby (coming soon!)
 
 **Dec 12 - Jan 6: Project Planning and Pitching**
 

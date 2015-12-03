@@ -11,7 +11,7 @@ Over the next 10 months, you'll create amazing projects, build communities, trai
 
 ###TASKS/DELIVERABLES
 
-We've broken the 10 month period into phases, to help you organize your time. Deliverables are for each phase of the project will be listed as that phase nears, and sorted into directories named for the phase. The deliverables will help you document your project's evolution, and make your process transparent and reusable for our wider community. We've assigned point people who can help you with questions and clarifications about the task, so look for their names in the Deliverable section. 
+We've broken the 10 month period into phases, to help you organize your time. Deliverables are for each phase of the project will be listed as that phase nears, and sorted into directories named for the phase. The deliverables will help you document your project's evolution, and make your process transparent and reusable for our wider community. We've assigned point people ([contact list here](https://github.com/mozillascience/fellows-class-2015/blob/master/reference/contacts.md)) who can help you with questions and clarifications about the task, so look for their names in the Deliverable section. 
 
 See below for a color-coded calendar of the year. All is subject to change/updating. Again, your feedback is welcome!
 

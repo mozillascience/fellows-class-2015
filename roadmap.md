@@ -21,19 +21,19 @@ See below for a color-coded calendar of the year. All is subject to change/updat
 ###EXPLORE (October 2015-January 2016)
 You’ll be doing project research and development planning exercises and contributing to the MSL blog throughout the EXPLORE phase. The phase deliverables and work periods are as follows (deliverables are due on the last day of the period).
 
-**Nov 19 - 30: Intro and Exploring Problems/Challenges**
+**(1) Nov 19 - 30: Intro and Exploring Problems/Challenges**
 
 * [Introductory MSL blog post, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-intro_interview.md) <<point person: Zannah
 * [Writing Exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-challenge_exercise.md) and [blog post](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-challenge_post.md) on defining the difficulty or opportunity you hope to address point person: Zannah (note: draft blog post deadline extended to 12/7)
 
 
-**Dec 1-11: Idea Development**
+**(2) Dec 1-11: Idea Development**
 
 * [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md) <<point person: Kaitlin
 * [User/Collaborator personas & pathways exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-personas_and_pathways.md) <<point person: Zannah
 * [Resources requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-resources_requirements.md) & [Sustainability Plan](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-sustainability_plan.md) <<point person: Abby
 
-**Dec 12 - Jan 6: Project Planning and Pitching**
+**(3) Dec 12 - Jan 6: Project Planning and Pitching**
 
 * [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-roadmapping.md) << point person: Abby
 * Project schedule (mapped to calendar) << point person: Arliss

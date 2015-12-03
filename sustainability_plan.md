@@ -16,7 +16,7 @@ For Part 2: A new section in the CONTRIBUTING.md file in your repository.
 ##Part 1. Sustainability Plan
 
 ###BACKGROUND
-You're all revved up and excited about your project, and have made a committment to getting it off the ground and growing a fantatic community of contributors!
+You're all revved up and excited about your project, and you've made a committment to getting it off the ground and growing a fantastic community of contributors!
 #YES! 
 (We're really excited too!) And we want your project to survive over the long term, regardless of where your career takes you or what other amazing things you dive into after the fellowship.  
 

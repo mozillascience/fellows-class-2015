@@ -36,11 +36,11 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 * **title:** Lead Developer, Mozilla Science Lab
 * **email:** abigail@mozillafoundation.org
-* **irc:**
-* **skype:**
+* **irc:** abbycabs
+* **skype:** acabunoc
 * **github:** [@acabunoc](https://github.com/acabunoc)
 * **twitter:** [@abbycabs](https://twitter.com/abbycabs)
-* **areas of expertise:** web development and Disney :european_castle:
+* **areas of expertise:** full stack web development and Disney :european_castle:
 
 ### Zannah
 

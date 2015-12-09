@@ -1,4 +1,4 @@
-##Sustainability plan and contributor pathway.
+##NEW TITLE!!!
 
 **GOAL:** If you somehow get stranded on a desert island, kidnapped by aliens, or simply move on to other projects at the close of your fellowship, how will your project continue on without you? 
 

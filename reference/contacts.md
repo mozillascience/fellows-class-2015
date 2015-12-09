@@ -26,9 +26,9 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 * **title:** Training Coordinator, Mozilla Science Lab
 * **email:** arliss@mozillafoundation.org
-* **irc:**
-* **skype:**
-* **github:**
+* **irc:** arlissc
+* **skype:** arliss.collins99
+* **github:** arlissc
 * **twitter:** [@arlissc](https://twitter.com/arlissc)
 * **areas of expertise:** event management and curling :shaved_ice:
 

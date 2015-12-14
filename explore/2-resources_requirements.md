@@ -27,9 +27,9 @@ You should come up with a matrix that is structured like this:
 
 Role | Output/Input | Hours Needed (per week) | Who Can Help? | Notes
 ---- |------------- | ------------ | ------------- | -----
-JS Developer| D3 Code for Visualizations  | 30 hrs | Alice | contact her ASAP
-Graphic Designer | Logo and Diagrams | 15 hrs |? ask MSL staff? | how much do designers charge?
-QA Testers | Testing | 4 testers @ 2 hrs each | Email listserv for volunteers | QA will happen over spring break, students free to help? 
+JS Developer| D3 Code for Visualizations  | 4 hrs/week | Alice | contact her ASAP
+Graphic Designer | Logo and Diagrams | 16 hrs/week for one week, .5 to 1 hour/week ongoing |? ask MSL staff? | how much do designers charge?
+QA Testers | Testing | 4 testers @ 2 hrs each (one time) | Email listserv for volunteers | QA will happen over spring break, students free to help? 
 Users| Use the app! | ongoing, but 1 hour intial engagement | Open Data Community |need PR plan to publicize
 
 Remember you have some of the time and energy of Mozilla Science Lab staff members available to support your project. Add Kaitlin, Abby, Arliss, Steph, Zannah, and Aurelia to your matrix-- we can provide feedback, tech support, project management or community management consultations, etc.  

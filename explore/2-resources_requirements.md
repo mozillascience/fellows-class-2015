@@ -25,9 +25,9 @@ You should come up with a matrix that is structured like this:
 
 **SAMPLE MATRIX:**
 
-Role | Output/Input | Hours Needed (per week) | Who Can Help? | Notes
+Role | Output/Input | Hours Needed (per week/ongoing) | Who Can Help? | Notes
 ---- |------------- | ------------ | ------------- | -----
-JS Developer| D3 Code for Visualizations  | 4 hrs/week | Alice | contact her ASAP
+JS Developer| D3 Code for Visualizations  | 16 hrs/week for first 2 weeks, 2 hours ongoing | Alice | contact her ASAP
 Graphic Designer | Logo and Diagrams | 16 hrs/week for one week, .5 to 1 hour/week ongoing |? ask MSL staff? | how much do designers charge?
 QA Testers | Testing | 4 testers @ 2 hrs each (one time) | Email listserv for volunteers | QA will happen over spring break, students free to help? 
 Users| Use the app! | ongoing, but 1 hour intial engagement | Open Data Community |need PR plan to publicize

@@ -25,7 +25,7 @@ You should come up with a matrix that is structured like this:
 
 **SAMPLE MATRIX:**
 
-Role | Output/Input | Hours Needed | Who Can Help? | Notes
+Role | Output/Input | Hours Needed (per week) | Who Can Help? | Notes
 ---- |------------- | ------------ | ------------- | -----
 JS Developer| D3 Code for Visualizations  | 30 hrs | Alice | contact her ASAP
 Graphic Designer | Logo and Diagrams | 15 hrs |? ask MSL staff? | how much do designers charge?

@@ -8,6 +8,7 @@ Consumers don’t have much biomedical research literacy, let alone open science
 
 Defining resilience will be different for each disease. Will be a lot of work to define for each disease. Need input from many different types of experts. 
 
+
 **2 Free-write: Scope and Scale (5 mins). Consider the decisions you’ve made (if any) about scope and scale (for example: “among undergraduates” or “in the UK.”) . Take the problem and shift your scope and scale (zoom in/out) to focus on a larger or smaller subset of users or behaviors. What changes when you do this? What feels most manageable? What feels too complex, or too general? Are you seeing new audiences or users you didn’t imagine?**
 
 The resilience project is currently decoding several cases of resilient individuals (Sickle Cell, Alzheimers). We expect to probably add a couple more cases in the next year but hard to know if advance how quickly we’ll scale. For each case, we must advocate for shared learning and collaboration. Having **high quality content to help make the case for collaborative decoding** would be very helpful. Could focus writing the content for these cases specifically, but then generalize the content so that it would be useful to open science practitioners in biomedical research broadly.
@@ -20,8 +21,11 @@ Another option altogether is to focus on **educating research volunteers about t
 
 Producing a biomedical research study can be very complicated. The different approaches that researchers deploy in data sharing alone, could fill volumes. Therefore it is surprising that nobody has created **a collection of “sharing patterns”**. I imagine that a **“lookbook”** or compilation of models for sharing data would be useful. This could be done with a specific focus, e.g. human biomedical research studies involving genomic data. Or, any biomedical study.
 
+
 **3 Refine. (3-5 minutes). Take a moment to narrow your problem statement down to one or two sentences.**
 Difficult cases in biomedical research, like decoding individuals who escape genetic disease, are more likely to be solved in a timely way when contributions by experts from many backgrounds and institutions are easily made. Even when researchers are willingly to collaborate, **many challenges exist for producing a system that enables people to effectively working together**.  
+
+
 **4 Reflect (2-5 mins). Are you finding any gaps in your understanding of the problem, your users, etc? Is research needed? List 3-5 areas where you might need more.**
 I don’t have really good information about the **views and preferences of researchers around data sharing** and what **forces are most at play** in determining how biomedical research gets puts together. 
 

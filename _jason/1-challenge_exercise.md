@@ -1,4 +1,4 @@
-**1 Free-write: Problem/Challenge (5 mins). Remember, don’t start with the solution you’re imagining here, only the problem you want it to address. Try phrasing your problem in jargon-free language, and be sure you’re defining all terms plainly-- what ie: what does “open” mean in this case? Take a step back and look at the roots of the problem. What’s contributing or compounding it. Are there underlying causes you need to consider, to be sure you’re targeting your solution effectively?**
+##Problem/Challenge##
 
 Need more researchers to collaborate on difficult problems, i.e. decoding. Small, insular research teams are ill equipped to solve problems in timely way. Expertise required to solve some problems are often far flung, not local.
 
@@ -9,7 +9,7 @@ Consumers don’t have much biomedical research literacy, let alone open science
 Defining resilience will be different for each disease. Will be a lot of work to define for each disease. Need input from many different types of experts. 
 
 
-**2 Free-write: Scope and Scale (5 mins). Consider the decisions you’ve made (if any) about scope and scale (for example: “among undergraduates” or “in the UK.”) . Take the problem and shift your scope and scale (zoom in/out) to focus on a larger or smaller subset of users or behaviors. What changes when you do this? What feels most manageable? What feels too complex, or too general? Are you seeing new audiences or users you didn’t imagine?**
+##Scope and Scale##
 
 The resilience project is currently decoding several cases of resilient individuals (Sickle Cell, Alzheimers). We expect to probably add a couple more cases in the next year but hard to know if advance how quickly we’ll scale. For each case, we must advocate for shared learning and collaboration. Having **high quality content to help make the case for collaborative decoding** would be very helpful. Could focus writing the content for these cases specifically, but then generalize the content so that it would be useful to open science practitioners in biomedical research broadly.
 
@@ -21,12 +21,11 @@ Another option altogether is to focus on **educating research volunteers about t
 
 Producing a biomedical research study can be very complicated. The different approaches that researchers deploy in data sharing alone, could fill volumes. Therefore it is surprising that nobody has created **a collection of “sharing patterns”**. I imagine that a **“lookbook”** or compilation of models for sharing data would be useful. This could be done with a specific focus, e.g. human biomedical research studies involving genomic data. Or, any biomedical study.
 
-
-**3 Refine. (3-5 minutes). Take a moment to narrow your problem statement down to one or two sentences.**
+##Refine##
 Difficult cases in biomedical research, like decoding individuals who escape genetic disease, are more likely to be solved in a timely way when contributions by experts from many backgrounds and institutions are easily made. Even when researchers are willingly to collaborate, **many challenges exist for producing a system that enables people to effectively working together**.  
 
 
-**4 Reflect (2-5 mins). Are you finding any gaps in your understanding of the problem, your users, etc? Is research needed? List 3-5 areas where you might need more.**
+##Reflect##
 I don’t have really good information about the **views and preferences of researchers around data sharing** and what **forces are most at play** in determining how biomedical research gets puts together. 
 
 For the lookbook, I imagine it would be most valuable to focus on **8-10 studies / efforts that have different approaches to sharing**, write drafts based on how they work, and then fill in the gaps by interviewing one of the researchers involved.  I’ve got some inspiration there.
@@ -34,7 +33,8 @@ For the lookbook, I imagine it would be most valuable to focus on **8-10 studies
 To-date, most social science research on participant attitudes around biomedical research have looked only at preferences related to the **“return of results”** and much less about **“access to data” and choices related to that**.
 
 
-**5 Brainstorm (2-5 mins). Think of analogs. What are similar problems in other fields? What solutions have been tried? Did they work? Why/Why not?**
+##Brainstorm##
+
 Crowdsourced medical diagnoses:
 https://www.crowdmed.com/
 
@@ -54,11 +54,10 @@ http://www.apple.com/privacy/approach-to-privacy/
 Guiness Book of World Records
 http://www.guinnessworldrecords.com/set-a-record
 
-
 Tumor Board Review:
 https://en.wikipedia.org/wiki/Tumor_board_review
 
 
-**6 Free-write: Transformation (5 mins). If this problem is solved, what does that look like? What do people do differently? What are the effects one week, one month, one year, ten years after this problem is solved? How does this change the transform the broader culture? (Again, skip the solution for now and try to imagine only the outcome).**
+##Transformation##
 
 Short term, we are able to develop materials that help advocate for collaborative decoding. Find a small number of cases to work on. Learn a lot about which challenges are easy and which are more difficult. Later, generalize for other biomedical researchers who wish to collaborate. Longer term, we hope to accelerate biomedical problem solving by paving the road to collaborative work.

@@ -39,7 +39,7 @@ You’ll be doing project research and development planning exercises and contri
 * Project schedule (mapped to calendar) << point person: Arliss
 * Blog post on idea, users, impact <<point person: Zannah
 * [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be presented on Jan 6 call) <<<point people: Steph & Kaitlin (to be presented on Jan 6 call)
-* 7 slide presentation (shareable) and/or short video <<point person Kaitlin
+* [7 slide presentation](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-presentation.md) (shareable) and/or short video <<point person Kaitlin
 
 
 ###PROTOTYPE (January-February 2016)

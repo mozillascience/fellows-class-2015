@@ -67,8 +67,8 @@ Joey & Jason pitch to each other.
 Christie & Richard pitch to each other.
 
 **HELPFUL RESOURCES ON ELEVATOR PITCHES:**  
-[The Problem with Your Elevator Pitch and How to Fix It] (http://www.fastcompany.com/3004484/problem-your-elevator-pitch-and-how-fix-it)  
-[Crafting an Elevator Pitch] (https://www.mindtools.com/pages/article/elevator-pitch.htm)  
-[Identity. Argument. Ask.] (https://onepitch.wordpress.com/)
+[The Problem with Your Elevator Pitch and How to Fix It](http://www.fastcompany.com/3004484/problem-your-elevator-pitch-and-how-fix-it)  
+[Crafting an Elevator Pitch](https://www.mindtools.com/pages/article/elevator-pitch.htm)  
+[Identity. Argument. Ask.](https://onepitch.wordpress.com/)
 
 

@@ -1,11 +1,3 @@
-## Writing a Post. 
-
-**GOAL:** Write a blog post about the challenge(s) or problem(s) you hope to address throughout the fellowship.
-
-**FORMAT:** Post on MSL's blog
-
-**TECHNOLOGY:** Wordpress. You should have usernames and logins via Abby.
-
 **TIME TO COMPLETE:** 1-2 hours (depending on how fast you write!).
 
 Using your ideas and notes from the [challenge exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/challenge_exercise.md), write a blog post about what challenges/problems you hope to tackle.

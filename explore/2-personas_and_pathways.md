@@ -1,10 +1,10 @@
-##Personas and Pathways Activity: Connecting with Your Users and Contributors.
+## Personas and Pathways Activity: Connecting with Your Users and Contributors.
 
 **GOAL:** Your open project needs users and contributors, but how can you find them, get them involved, and keep them engaged and active in your community? This activity is designed to help you identify potential users and contributors, understand their goals and motivations, help them find a way into your project, and grow them into strong, committed community members.
 
 **FORMAT:** Brainstorming, writing, and planning exercise.
 
-**TECHNOLOGY:** A timer or stopwatch to time your freewrites. Pen and paper are here, over 
+**TECHNOLOGY:** A timer or stopwatch to time your freewrites. Pen and paper are here, over
 
 **TIME TO COMPLETE:** about 45 minutes to 1 hour
 
@@ -39,7 +39,7 @@ Sample Persona Write-Up:
 * Add A Visual To really bring your persona to life, find an image that you can assign to them (google image search or stock photos work great).  
 
 **3. Create A Pathway For Your Persona**
-Consider how you’d like each of your personas to engage, and how you’d like them to level up or advance in your community. Think of the benefit to the project and community, but primarily benefit to the persona. A system of engagment levels currently in use at Mozilla looks like this: 
+Consider how you’d like each of your personas to engage, and how you’d like them to level up or advance in your community. Think of the benefit to the project and community, but primarily benefit to the persona. A system of engagment levels currently in use at Mozilla looks like this:
 
 Level 0 - No Action
 Level 1 - Solitary Action
@@ -48,9 +48,9 @@ Level 3 - Networked Actions
 Level 4 - Networked Leadership
 Level 5 - Sustained Leadership
 
-For a given contributor, we might move them from level 0 to level 2, or level 3 to level 4? Our sample persona, Rashid, is probably at level 1-- solitary action. He's interested in open science, but working alone. How can we get him to Level 3 where he's begining to collaborate and work with others? How might he get to level 4, where he's beginning to teach or lead within his community? 
+For a given contributor, we might move them from level 0 to level 2, or level 3 to level 4? Our sample persona, Rashid, is probably at level 1-- solitary action. He's interested in open science, but working alone. How can we get him to Level 3 where he's begining to collaborate and work with others? How might he get to level 4, where he's beginning to teach or lead within his community?
 
-When applied to a persona, the pathway is like a little story of the persona's history with the project. 
+When applied to a persona, the pathway is like a little story of the persona's history with the project.
 
 An example pathway for Rashid, from level 1 to level 3 or 4 might be:
 
@@ -67,5 +67,3 @@ By using the persona and imagining this story, we can begin see what needs to be
 Use the pathway narrative to help define tasks or approaches you’ll need to take to bring this community member in or move them forward. For example, in the above story, Rashid learns about the Study Group via a flier… if we haven’t already thought of how we’re letting people know about our project, this little narrative has prompted us to think of a strategy. The story also helps us realize out that flexibility and alternate meeting times might be useful for some Study Group users,  that leveraging personal connections can help bring people in, etc…  
 
 Review your pathway steps and make a list of things you could try in bringing users/contributors on. *(brainstorming, writing, 5-10 mins)*.
-
-

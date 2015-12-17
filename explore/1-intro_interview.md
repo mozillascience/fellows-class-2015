@@ -8,26 +8,29 @@
 
 **TECHNOLOGY:** Recording audio  via Skype may be the best option; there are a number of apps/plugins for recording audio from Skype. No-cost options for Mac are limited, but free short-term trials of software is available. If you have another solution, please let us know. 
 
-###PROCESS:
+### PROCESS:
+
 * Get your interview assignment from MSL (see section at the end of this document)
 * Schedule interviews in the next week.
 * Send MSL the recorded audio file; we will have the interviews transcribed and sent to you for editing
-* Zannah is available assist with the editing the text for the blog post as needed. 
+* Zannah is available assist with the editing the text for the blog post as needed.
 * Let us know if you have any questions!
 
-###For INTERVIEWER:
+### For INTERVIEWER:
+
 * Do some homework! Review your interviewee’s intro presentation from Onboarding to refresh your memory.
 * In advance, make notes on what you find most intriguing, inspiring, compelling, surprising, confusing, etc about your interviewee’s life and work. Use this interview as a way to really understand and engage with their approach, vision, motivation.
-* Ask open ended questions “Tell me about x…” “How would you define x…?” “What is your vision for x?” “Why is x important to you?”;  avoid yes or no questions. 
+* Ask open ended questions “Tell me about x…” “How would you define x…?” “What is your vision for x?” “Why is x important to you?”;  avoid yes or no questions.
 * Feel free to follow up with “Why?” and “How” questions to clarify or go deeper on a topic.
-* Let the interview be a conversation, keep it relaxed and personable. 
+* Let the interview be a conversation, keep it relaxed and personable.
 * Don’t fear tangents if they come up-- it’s OK to drift a bit if your interviewee seems to want to head in a direction that you didn’t have in mind
 * Use the 80/20 rule: you should be listening 80% of the time, talking only 20%
-* Have a pad and pen handy to jot down great question or insight comes to mind while your interviewee is speaking. 
+* Have a pad and pen handy to jot down great question or insight comes to mind while your interviewee is speaking.
 * Have fun!
 
-###For INTERVIEWEE:
-* Get specific-- particular projects, concrete examples, real-world first person stories will help anchor your ideas and provide helpful detail. 
+### For INTERVIEWEE:
+
+* Get specific-- particular projects, concrete examples, real-world first person stories will help anchor your ideas and provide helpful detail.
 
 ###INTERVIEW ASSIGNMENTS:
 * Joey interviews Richard (presentation: http://blahah.net/fellows-onboarding-talk/#1 )

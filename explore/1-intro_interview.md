@@ -2,7 +2,7 @@
 
 **GOAL:** We want our community to know about you, where you are coming from, what inspires and motivates your work in open science, and what projects or potential projects you’re excited about. As part of encouraging conversation and engagement within the Fellows cohort, we’re asking you to collaborate on these posts and interview each other.  
 
-**FORMAT:** Interview. Each fellow interviews another for ~30 minutes; you’re interviewed by a different person that the one you interview.
+**FORMAT:** Interview. Each fellow interviews another for ~30 minutes; you’re interviewed by a different person than the one you interview.
 
 **TIME TO COMPLETE:** 2 hours (30 mins prep, 30 mins scheduling/tech download and testing, 30 mins interviewing, 30 mins editing & admin etc)  
 

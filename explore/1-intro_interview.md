@@ -31,6 +31,6 @@
 
 ###INTERVIEW ASSIGNMENTS:
 * Joey interviews Richard (presentation: http://blahah.net/fellows-onboarding-talk/#1 )
-* Richard interviews Jason (presentation: Jason to provide )
+* Richard interviews Jason (presentation: http://www.jasonbobe.net/files/Bobe_Mozilla_2015_1014.pdf )
 * Jason interviews Christie (presentation: http://dx.doi.org/10.6084/m9.figshare.1608319 )
 * Christie interviews Joey (presentation: http://joeyklee.github.io/presentations/onboarding/#/ )

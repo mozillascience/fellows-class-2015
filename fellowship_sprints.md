@@ -33,7 +33,7 @@ tags:
 	- [Solvers](solvers.io)
 	- [Mozilla Science Collaborate](https://www.mozillascience.org/collaborate)
 
-### PrismDB
+### Learning Bank (new name in the works)
 
 tags:
 
@@ -43,10 +43,10 @@ tags:
 
 Learning is best achieved when we have domain specific examples to work with 
 
-#### What is PrismDB?
+#### What is Learning Bank?
 
-- PrismDB is browser based/desktop tool that you can drag and drop links that feeds into a database of resources for learning tools/skills - e.g. how to make a web map with javascript, how to run a T-test in R, etc. 
-- Prism DB uses web scraping to try and pull out the relevant programmng language and also the subject/data type the tutorial is working on. 
+- Learning Bank is browser based/desktop tool that you can drag and drop links that feeds into a database of resources for learning tools/skills - e.g. how to make a web map with javascript, how to run a T-test in R, etc. 
+- Learning Bank uses web scraping to try and pull out the relevant programmng language and also the subject/data type the tutorial is working on. 
 - users can then browse learning by langugage but also domain or data examples that are relevant for them.
 - The idea then is that PrismDB will become a big database of helpful links and tutorials that are relevant for learning new skills and tools, etc that can be navigated and filtered in an enjoyable way.
 - Ultimately PrismDB is a database of domain examples so that we can learn with the data and things that align closest to us. 

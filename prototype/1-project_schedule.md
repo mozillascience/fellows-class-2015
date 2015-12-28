@@ -4,7 +4,10 @@
 
 Should you prefer a sprint structure on a few micro-projects, you can accordingly adapt the following exercise to accommodate that scheduling as well, some prompts are provided.
 
-**FORMAT:**  Google spreadsheet as a working document, your favourite calendar tool and/or develop a roadmap document in GitHub.
+**FORMAT:**  Use this [template](https://docs.google.com/spreadsheets/d/1iKpicZeDdvBInx4fAGFFkPJP1-vHxkDJ-QicmpbttcQ/edit?usp=sharing) to start, it has two sheets: one for weekly, longitudinal progress on a single project (Christie + Jason), and one for 2 week sprints on a various projects (Joey + Richard)
+
+**TECHNOLOGY**: Google spreadsheet as a working document, your favourite calendar tool and/or develop a roadmap document in GitHub.
+
 
 **TIME TO COMPLETE:**  (2.0 - 2.5 hrs)
 

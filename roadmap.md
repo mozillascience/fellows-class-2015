@@ -41,8 +41,8 @@ You’ll be doing project research and development planning exercises and contri
 
 ###PROTOTYPE (January-March 2016)
 
-* Blog post on idea, users, impact <<point person: Zannah
 * [Project schedule]() (mapped to calendar) << point person: Arliss
+* Blog post on idea, users, impact <<point person: Zannah
 
 
 

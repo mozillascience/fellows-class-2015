@@ -36,19 +36,20 @@ You’ll be doing project research and development planning exercises and contri
 **(3) Dec 12 - Jan 6: Project Planning and Pitching**
 
 * [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-roadmapping.md) << point person: Abby
-* Blog post on idea, users, impact <<point person: Zannah
 * [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be presented on Jan 6 call) <<<point people: Steph & Kaitlin (to be presented on Jan 6 call)
 * [7 slide presentation](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-presentation.md) (shareable) and/or short video <<point person Kaitlin
 
 ###PROTOTYPE (January-March 2016)
 
-* Project schedule (mapped to calendar) << point person: Arliss
+* Blog post on idea, users, impact <<point person: Zannah
+* [Project schedule]() (mapped to calendar) << point person: Arliss
+
 
 
 ###TEST/SHARE (April 2016)
 
 
-###REFINE/SHARE/REFINE (April-July)
+###REFINE/SHARE/REFINE (May-July)
 
 
 ###LAUNCH (August)

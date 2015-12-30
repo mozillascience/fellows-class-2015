@@ -26,9 +26,9 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 * **title:** Training Coordinator, Mozilla Science Lab
 * **email:** arliss@mozillafoundation.org
-* **irc:**
-* **skype:**
-* **github:**
+* **irc:** arlissc
+* **skype:** arliss.collins99
+* **github:** arlissc
 * **twitter:** [@arlissc](https://twitter.com/arlissc)
 * **areas of expertise:** event management and curling :shaved_ice:
 
@@ -36,11 +36,11 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 * **title:** Lead Developer, Mozilla Science Lab
 * **email:** abigail@mozillafoundation.org
-* **irc:**
-* **skype:**
+* **irc:** abbycabs
+* **skype:** acabunoc
 * **github:** [@acabunoc](https://github.com/acabunoc)
 * **twitter:** [@abbycabs](https://twitter.com/abbycabs)
-* **areas of expertise:** web development and Disney :european_castle:
+* **areas of expertise:** full stack web development and Disney :european_castle:
 
 ### Zannah
 

@@ -15,9 +15,68 @@ This document is a place for us to develop the logistics of doing sprints, figur
 
 ## Joey
 
--all names are tentative and can be changed to something cooler ;)
+(I moved the old ideas to another doc - see Fellowship Idea Projects - so if you don't see them here, don't worry!)
 
-### Creatives for Science App
+### Viz Sprint
+
+Tags:
+
+- Sci-comm
+- Community Outreach
+
+#### Motivation:
+
+- Many researchers want to communicate their research to the public especially using web based visualization, but don't necessarily have the skills or the knowledge on how to do so or where to start. While there are many platforms that can produce and host charts, graphs, and text, some data stories are better told with more custom interaction and visualization. 
+
+- There is an importance in building up interest for science communication at the local scale. By making a science communication more visible at the university (e.g. grads and faculty see their peers getting their work out there), we can:
+	- inspire other researchers to invest into sci-comm projects
+	- highlight sci-comm as a means of enaging with science for people who aren't necessarily scientists, but who want to participate (e.g. developers, designers, creatives)
+	- enhance public understanding of what research is happening at UBC
+
+
+#### What is it?
+
+- The Viz Sprint is about developing web based science communication projects with researchers and their data. It is aimed to help researchers who want to get their research out into public by using visualization and the web. 
+- I will work directly with researchers across UBC to build out a projects that help to communicate their work and their data.
+- The Viz Sprint will essentially be about building collaborations between researchers and quickly iterating and prototyping visualizations with web technologies.
+- The Viz Sprint will have several tangible outcomes:
+	- the visualization project
+	- project documentation / tutorial on how to build the thing.
+	- a handy guide of helpful "do's" and "don'ts" for collaborations between researchers and creatives/developers might help to guide other researchers looking to engage in these types of relationships.	
+#### Moving forward
+
+- Tentative Project list:
+	- Vancouver's Urban Greenhouse Gas Emissions and Impact 
+		- I plan to start the sprint by working with my supervisor, Andreas Christen, to develop a web app for visualizing greenhouse gas (GHG) emissions in the city of Vancouver using data produced from models and measured in-situ. 
+	- A Changing North American Biogeoclimate Zone Map 
+		- tdb
+	- Soundscapes of Northern BC in danger from oil pipeline development (pending approval from local community)
+	- ...
+	
+
+### Mapping FUNdamentals
+(Thanks Aure for that one)
+
+Tags:
+
+- education
+- maps
+
+#### Motivation
+
+- There are a TON of resources online around web mapping and how make them. More often than not, if you have a question about how to do some task, someone has probably already asked it on stackoverflow and received an answer. This is great, but often times finding the right search terms will make or break your ability to find that crucial answer to your mapping question. 
+- With online code sand boxes like codepen and jsfiddle, we are able to play with examples online without setting up local webservers or creating a bunch of files on our machines. It's awesome! Wouldn't it be great if you could play with API references online? Personally I love the [P5.js reference](http://p5js.org/reference/) and think that if web mapping had a really nice code sandbox like this, the world would be a supremely better place.
+
+#### What is it?
+
+- Mapping FUNdamentals is an interactive web mapping reference.
+- It is aimed at taking (sometimes confusing) web map API references and making them more accessible and interactive so that beginners and experts alike can learn from and reference examples in a coherent way.
+- I imagine it will look a lot like the [P5.js reference](http://p5js.org/reference/). I will start with leaflet.js, but it could be extended to Mapbox.js or d3.js examples etc. 
+- By developing an interactive mapping "dictionary", I hope to develop a place were users will be able to better search for the mapping component they are interested in and learn that web maps, like everything else, can be deconstructed like legos and built into new and different and more awesome things.
+
+
+
+<!--### Creatives for Science App
 
 tags:
 
@@ -82,7 +141,7 @@ tags:
 - I propose to use modern web technologies such as P5.js, Leaflet.js, Turf.js, D3.js, and Github, and others, to put together a book that tries to capture the lego block approach to building and making things - in this case maps - with code.
 - The book would start with P5 - learning the basics of the web then move to integrating maps.
 - Each chapter is a lesson - e.g. intro to computation, geo data formats, making a map UI, etc.
-- Best feature: a "lookbook" section that takes scientific data on real and relevant projects and explains how they are made and how to pull together the lessons from the book to make them. 
+- Best feature: a "lookbook" section that takes scientific data on real and relevant projects and explains how they are made and how to pull together the lessons from the book to make them. -->
 
 
 ## Richard

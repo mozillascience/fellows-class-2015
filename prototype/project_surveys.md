@@ -4,7 +4,7 @@
 
 The surveys (both "entry" and "exit") accommodate both the single-project and sprint-style schedules, and should be filled out to bookend a week or a sprint of features.
 
-**FORMAT:**  Use the provided [Entry Form](http://goo.gl/forms/4wu3nkH7WY) to start, and teh [Exit Form](http://goo.gl/forms/I6ZRdpvWs7) on completion of a week or two week-long project sprint.
+**FORMAT:**  Use the provided [Entry Form](http://goo.gl/forms/4wu3nkH7WY) to start, and the [Exit Form](http://goo.gl/forms/I6ZRdpvWs7) on completion of a week or two week-long project sprint.
 
 **TECHNOLOGY**: Google Forms (linked above), your Project Schedule developed in previous exercises.
 

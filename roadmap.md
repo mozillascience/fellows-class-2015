@@ -42,10 +42,11 @@ You’ll be doing project research and development planning exercises and contri
 ###PROTOTYPE (January-March 2016)
 
 * [Project schedule](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_schedule.md) (mapped to calendar) << point person: Arliss
-* Blog post on idea, users, impact <<point person: Zannah
+* [Blog post on idea, users, impact](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md) <<point person: Zannah
 * [Project surveys](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_surveys.md) <<point person: Aurelia
  * [Week/Sprint Entry Survey](http://goo.gl/forms/4wu3nkH7WY)
  * [Week/Sprint Exit Survey](http://goo.gl/forms/I6ZRdpvWs7)
+
 
 
 

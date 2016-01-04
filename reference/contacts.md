@@ -28,8 +28,8 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 * **email:** arliss@mozillafoundation.org
 * **irc:** arlissc
 * **skype:** arliss.collins99
-* **github:** arlissc
-* **twitter:** [@arlissc](https://twitter.com/arlissc)
+* **github:** [@arlissc](https://github.com/arlissc)
+* **twitter:** [@arlissc99](https://twitter.com/arlissc99)
 * **areas of expertise:** event management and curling :shaved_ice:
 
 ### Abby 

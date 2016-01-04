@@ -6,7 +6,7 @@ Over the next 10 months, you'll create amazing projects, build communities, trai
 
 
 ###FELLOWSHIP MISSION/VISION STATEMENT
-(fellows pls add)
+Christie: to foster reproducibility and diversity in science by teaching early career scientists how to do their work in the open.
 
 
 ###TASKS/DELIVERABLES

@@ -41,7 +41,7 @@ opportunity. Or like in any good murder mystery show, it's about means, motive, 
 
 I think what open source and open science is doing is making new opportunities to do the things that you want to do. I grew up in a very prescriptive environment about how to learn but with open science/open source you get exposed to all of the millions of possibilities that are out there and to find the right learning and research tools for you. I think it's been incredibly empowering and satisfying to start to build things that in my brain were just an idea. Now with open tools, you can just simply do it.
 
-So why should we practice open science?
+**So why should we practice open science?**
 
 I think a lot of people simply see the outcome of science as being this big and overwhelming thing. I think if people saw how science actually gets done they could develop a very different picture of what it means to do science. We need to make science more transparent. If we saw how people collect insects, for example, you would see that while yes, it is scientific, it's also just a bunch of people out there just busting their ass. If people were to see that, it would kind of open up the doors for more diversity in science. For example, if you're interested in technology and not necessarily interested in particle physics, you can still participate in science and play, actually, an amazing role as a developer or as a designer to help make sense of all that stuff. And so in the end for me I think bringing more diversity into science through building confidence or educational materials could be like a really good way to incentivize open science. 
 

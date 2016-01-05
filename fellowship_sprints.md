@@ -11,11 +11,17 @@ Once we've fleshed out the sprint ideas, critiqued them, taken feedback and impr
 
 This document is a place for us to develop the logistics of doing sprints, figure out our individual sprint project ideas, and get feedback on all the above.
 
+Some projects we will do together from the beginning while in others we can each be sprinting on our own projects and then try to make sure we’re in sync during the sprint so that we can overlap / trade skills and help -  20% of time guaranteed for collaboration and skill exchange for when we’re sprinting independently. We were envisaging it being like we push for two weeks on a project, for each project, but potentially a project could come back around for another sprint. 
+
+***See Aure's feedback here: [Feedback 2015-12-15](https://gist.github.com/auremoser/d7394f4a01a28c12fb32) ***
+
 # Sprint project ideas
 
 ## Joey
 
 (I moved the old ideas to another doc - see [fellowship_ideas.md](../_joey/fellowship_ideas.md) - so if you don't see them here, don't worry!)
+
+
 
 ### Viz Sprint
 ***
@@ -92,6 +98,7 @@ tags:
 	- [http://www.creativesforscience.org/](http://www.creativesforscience.org/) 
 	- [Solvers](solvers.io)
 	- [Mozilla Science Collaborate](https://www.mozillascience.org/collaborate)
+	- [WhatCanIDoForMozilla](http://whatcanidoformozilla.org/#!/progornoprog/teach)
 
 
 ## Richard

@@ -10,7 +10,7 @@ Christie: 	Yes. I work with insects. Actually, truly bugs too. There's a group w
 
 Christie: 	Yeah. Natural enemies like lady beetles are a really important part of every agricultural system, and we don't actually know how much they're contributing to every system, because when they're doing their job, you don't have pest problems.  And they're really sensitive to things like the environment, the landscapes that they're living in. So you can use manipulations of the landscape and the environment to understand how these interactions are going to play out over time. 
 
-*Jason: 	And so, which part of this agricultural ecology puzzle is really your domain? Are you a data scientist? *
+*Jason: 	And so, which part of this agricultural ecology puzzle is really your domain? Are you a data scientist?* 
 
 Christie: 	I am the quantitative ecologist on this team. So one of the problems that I've been working on for the last few years now is looking at the lady beetle community at the research station in southwestern Michigan- the [Kellogg Biological Station](http://lter.kbs.msu.edu/). They've been monitoring lady beetle populations since 1989 there, and we’ve got data for all the different species that are interacting over time. During this monitoring period, we've captured several invasions of different lady beetle species, as well as the arrival of new pests. And so one of the things that I've been working on is looking at how communities responding to these invasions and looking at does it affect the service that they provide. So can they eat the same number of aphids? Can they respond to the same amount of pest pressure with these new species in the mix? And also what is that doing to our native species, because there's conservation concerns associated with keeping the native species around as well.
 
@@ -74,7 +74,7 @@ Christie: 	Yeah. So you end up having sort of the...the scientific paper as the 
 
 For example, I worked with a student whose project involved the restoration of oak savannahs, which was dominant land use in southwestern Michigan before European settlement. When he finished his master's, he got a job with a local NGO as a conservation biologist, that does a lot of on-the-ground conservation activities in the area he studied.  And through his work there, he doesn't have access to the papers he wrote here at the university.
 
-*Jason: 		Uh-oh. *
+*Jason: 		Uh-oh.* 
 
 Christie: 	And so here we have a student that we have trained in evidence-based practice. He wants to do the best he can in actually restoring these habitats.
 
@@ -96,6 +96,6 @@ Christie: 	Well, my plan is to get them while they're young. So the idea is I'm 
 
 Christie: 	[Open science and reproducible research](https://github.com/cbahlai/OSRR_course). 
 
-Jason: 		Well, Christie, thanks so much for the interview. Where can we find you online to learn more?
+*Jason: 		Well, Christie, thanks so much for the interview. Where can we find you online to learn more?*
  
 Christie: 	Well, you can find me on Twitter [@cbahlai](https://twitter.com/cbahlai), C-B-A-H-L-A-I. And you can also find me on github, same name. It's really convenient having a unique seven-letter identifier. 

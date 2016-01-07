@@ -1,4 +1,4 @@
-**Challenge**
+#Challenge#
 
 Need more researchers to collaborate on difficult problems, i.e. decoding. Small, insular research teams are ill equipped to solve problems in timely way. Expertise and technology required to solve some problems are often far flung, not local. Collaboration / shared problem solving in biomedical research require trust, privacy, appropriate governance, and non-trivial operational components.
 
@@ -6,7 +6,7 @@ Consumers don’t have much biomedical research literacy, let alone open science
 
 Defining resilience will be different for each disease. Will be a lot of work to define for each disease. Need input from many different types of experts, including patients. 
 
-**Scope and Scale**
+#Scope and Scale#
 
 The resilience project is currently decoding several cases of resilient individuals (Sickle Cell, Alzheimers). We expect to probably add a couple more cases in the next year but hard to know if advance how quickly we’ll scale. For each case, we must advocate for shared learning and collaboration. Having **high quality content to help make the case for collaborative decoding** would be very helpful. Could focus writing the content for these cases specifically, but then generalize the content so that it would be useful to open science practitioners in biomedical research broadly.
 
@@ -18,10 +18,10 @@ Another option altogether is to focus on **educating research volunteers about t
 
 Producing a biomedical research study can be very complicated. The different approaches that researchers deploy in data sharing alone, could fill volumes. Therefore it is surprising that nobody has created **a collection of “sharing patterns”**. I imagine that a **“lookbook”** or compilation of models for sharing data would be useful. This could be done with a specific focus, e.g. human biomedical research studies involving genomic data. Or, any biomedical study.
 
-**Refine**
+#Refine#
 Difficult cases in biomedical research, like decoding individuals who escape genetic disease, are more likely to be solved in a timely way when contributions by experts from many backgrounds and institutions are easily made. Even when researchers and volunteers are willingly to collaborate, **many challenges exist for producing a system that enables people to effectively working together**.  
 
-**Reflect**
+#Reflect#
 I don’t have really good information about the **views and preferences of researchers around data sharing**. 
 
 For the lookbook, I imagine it would be most valuable to focus on **5-10 studies / efforts that have different approaches to sharing**, write drafts based on how they work, and then fill in the gaps by interviewing one of the researchers involved.  I’ve got some inspiration there.
@@ -29,7 +29,7 @@ For the lookbook, I imagine it would be most valuable to focus on **5-10 studies
 To-date, most social science research on participant attitudes around biomedical research have looked only at preferences related to the **“return of results”** and much less about **“access to data” and choices related to that**.
 
 
-**5 Brainstorm**
+#Brainstorm#
 Crowdsourced medical diagnoses:
 https://www.crowdmed.com/
 
@@ -53,6 +53,6 @@ Tumor Board Review:
 https://en.wikipedia.org/wiki/Tumor_board_review
 
 
-**Transformation**
+#Transformation#
 
 Short term, we are able to develop materials that help advocate for collaborative decoding. Find a small number of cases to work on. Learn a lot about which challenges are easy and which are more difficult. Later, generalize for other biomedical researchers who wish to collaborate. Longer term, we hope to accelerate biomedical problem solving by paving the road to collaborative work.

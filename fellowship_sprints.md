@@ -57,29 +57,9 @@ Tags:
 	- A Changing North American Biogeoclimate Zone Map 
 		- tdb
 	- Soundscapes of Northern BC in danger from oil pipeline development (pending approval from local community)
+	- UBC Library Data Resources
 	- ...
 	
-
-### Mapping FUNdamentals
-(Thanks Aure for that one)
-***
-Tags:
-
-- education
-- maps
-
-#### Motivation
-
-- There are a TON of resources online around web mapping and how make them. More often than not, if you have a question about how to do some task, someone has probably already asked it on stackoverflow and received an answer. This is great, but often times finding the right search terms will make or break your ability to find that crucial answer to your mapping question. 
-- With online code sand boxes like codepen and jsfiddle, we are able to play with examples online without setting up local webservers or creating a bunch of files on our machines. It's awesome! Wouldn't it be great if you could play with API references online? Personally I love the [P5.js reference](http://p5js.org/reference/) and think that if web mapping had a really nice code sandbox like this, the world would be a supremely better place.
-
-#### What is it?
-
-- Mapping FUNdamentals is an interactive web mapping reference.
-- It is aimed at taking (sometimes confusing) web map API references and making them more accessible and interactive so that beginners and experts alike can learn from and reference examples in a coherent way.
-- I imagine it will look a lot like the [P5.js reference](http://p5js.org/reference/). I will start with leaflet.js, but it could be extended to Mapbox.js or d3.js examples etc. 
-- By developing an interactive mapping "dictionary", I hope to develop a place were users will be able to better search for the mapping component they are interested in and learn that web maps, like everything else, can be deconstructed like legos and built into new and different and more awesome things.
-
 ### Creatives for Science App
 ***
 tags:

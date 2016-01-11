@@ -15,8 +15,6 @@ Building off your answers to the [project description exercise](https://github.c
 The aim of this exercise is to work on packaging up your project idea and communicate your idea to a diverse audience, so that they can understand your proposal and provide useful feedback.
 
 **Slide 1: Goals**
-* 
-* 
     
 **Slide 2: Problem**
 

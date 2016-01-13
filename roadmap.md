@@ -8,6 +8,7 @@ Over the next 10 months, you'll create amazing projects, build communities, trai
 ###FELLOWSHIP MISSION/VISION STATEMENT
 (fellows pls add)
 
++ Joey: to enhance the accessibility and public understanding of science and technology through science communication.
 
 ###TASKS/DELIVERABLES
 

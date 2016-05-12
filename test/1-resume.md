@@ -48,6 +48,7 @@ TITLE | TECH USED | LINK | DESCRIPTION
 NAME | JS/D3  | [LINK](https://github.com/mozilla/opennews-onboarding) | SOME DESCRIPTION
 NAME 2 | D3 | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
 
+#### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
 
 * PERSON 1

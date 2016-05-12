@@ -50,13 +50,13 @@ You’ll be doing project research and development planning exercises and contri
 
 
 ###TEST/SHARE (May-June 2016)
-* [Meta-résumé]()
-* [Documentation Exercise]()
+* [Meta-résumé](https://github.com/mozillascience/fellows-class-2015/blob/master/test/1-resume.md)
+* [Documentation Exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/test/2-documentation.md)
 * [Retrospective Blog]()
 * [Event Planning]()
 
 
-###REFINE/SHARE/REFINE (June-July 2016)
+###REFINE/SHARE (June-July 2016)
 
 
 ###LAUNCH (August)

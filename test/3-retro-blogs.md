@@ -1,4 +1,4 @@
-##Blogging
+##Retrospective blogging
 
 **GOAL:** This exercise will provide you with brief prompts for a short blog about your fellowship experience, which we'll post throughout the month of June as we prep new and incoming fellows for their experience and process applications for the next co-hort
 

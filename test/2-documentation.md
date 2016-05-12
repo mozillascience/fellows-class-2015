@@ -12,7 +12,7 @@
 
 Choose a project, one that you've developed, or published, and consider the following bullets as you do a documentation audit of that project. Take notes on as you address these bullets in your makdown document, and save it to your folder.
 
-![](http://imgur.com/NgrKCSF)
+![](http://i.imgur.com/NgrKCSF.png)
 
 #### Consider your audience
 * maybe reference your [sustainability plan](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-sustainability_plan.md) or [challenge exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-challenge_exercise.md) from the Explore phase, if relevant
@@ -23,7 +23,7 @@ Choose a project, one that you've developed, or published, and consider the foll
 * draft a short message to your contributors or users summarizing your project in one sentence and defining the type of contribution you'd like to solicit from them
 * this may develop into a more robust [contributor.md file](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) or a little [website for your community](http://www.slidewinder.io/docs/) but for now it can be a draft text document. 
 
-![](http://imgur.com/gh333eM)
+![](http://i.imgur.com/gh333eM.png)
 
 #### Create basic docs
 * draft some boilerplate documents that correspond to your project, which you can evolve over time

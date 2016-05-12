@@ -21,7 +21,7 @@ August 25 - seek 5 contributors to the project, or testers to review your work
 * Add these events to the timeline sketch above
 * Start outreach to the event organizers, or conference committee, and draft a quick abstract about your project (maybe cull it from your README or documentation developed in the "Documentation" exercise)
 * Host your own event/launch, possiblity in coordination with another group or meetup who does cool stuff in your area, check out these [facilitation guidelines](http://mozillascience.github.io/working-open-workshop/sprints_events/) for tips, checklists and resources to make this happen
-* Consider building a Study Group around your project topic, to build and manage IRL community (*nudg nudge* sorry, not sorry)
+* Consider building a [Study Group](https://github.com/mozillascience/studyGroup) around your project topic, to build and manage IRL community (*nudg nudge* sorry, not sorry)
 
 
 Load all of these notes into a document with a relevant title in your repository folder/branch and conclude the document with the details for an event, conference or talk you would like to give in honor of your project debut.

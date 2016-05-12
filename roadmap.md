@@ -49,12 +49,14 @@ You’ll be doing project research and development planning exercises and contri
  * [Week/Sprint Exit Survey](http://goo.gl/forms/I6ZRdpvWs7)
 
 
+###TEST/SHARE (May-June 2016)
+* [Meta-résumé]()
+* [Documentation Exercise]()
+* [Retrospective Blog]()
+* [Event Planning]()
 
 
-###TEST/SHARE (April 2016)
-
-
-###REFINE/SHARE/REFINE (May-July)
+###REFINE/SHARE/REFINE (June-July 2016)
 
 
 ###LAUNCH (August)

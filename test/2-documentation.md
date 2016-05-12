@@ -10,7 +10,7 @@
 
 **INSTRUCTIONS**
 
-Choose a project, one that you've developed, or published, and consider the following bullets as you do a documentation audit of that project. Take notes on as you address these bullets in your makdown document, and save it to your folder.
+Choose a project, one that you've developed, or published, and consider the following bullets as you do a documentation audit of that project. Take notes on as you address these bullets in your makdown document, and save it to your folder. It's worth noting that we recommend you attempt documentation throughout your project, which makes publishing and versioning your project much easier in the long run, however often some of the polish that goes into documentation comes at the end of the project when you know what you've built and can articulate its idiosyncracies and current status accurately. This exercise is meant to help you *polish* your documentation practice pre-launch of a project.
 
 ![](http://i.imgur.com/NgrKCSF.png)
 

@@ -46,7 +46,7 @@ Last month I attended the Mozfest planning retreat in Berlin, and had my mind bl
 
 ### The work
 
-I don't really want to focus on my fellowship work in this post - I'll save that for later. But a few things are worth mentioning.
+I don't want to go into detail about my projects here - I'll save that for later. But there are some general things worth mentioning here.
 
 What I ended up working on was completely different than what I wrote in my application. You're not restricted by what you write in that application form - figuring out what to work on is a gradual and collaborative process.
 

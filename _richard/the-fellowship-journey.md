@@ -60,4 +60,4 @@ You have until July 15th to apply for the next round of fellowships. Read about 
 
 Something I'm particularly excited about this year is that anyone studying or employed at a research institution **anywhere in the world** can apply.
 
-If you're successful, it will change your life completely. The opportunity is too good to miss. Do it, apply now.
+The fellowship will change your life completely. The opportunity is too good to miss. Do it, apply now.

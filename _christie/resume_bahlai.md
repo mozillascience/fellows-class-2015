@@ -83,6 +83,8 @@ I met with or made significant connections with the following organizations and 
 * Mike Conley
 * Mmaki Jantjies
 * Rob Schaefer
+* Auriel Fournier
+* Kaitlin Stack-Whitney
 * Students
 	* Elizabeth Davidson
 	* Baho Eshchanov

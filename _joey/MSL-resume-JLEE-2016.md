@@ -25,6 +25,7 @@ Event | Location | Date | Role
 #### TALKS
 
 * *Entangling the map: adventures in that fuzzy space between art and science*. Geojournews Conference. June 2016; [link to talk](); [link to slides]()
+* *Visualization as an outreach tool*. OSRR course w/ Christie Bahlai. March 2016; [link to talk](); [link to slides](https://github.com/cbahlai/OSRR_course/blob/master/19_visualization_and_outreach.md)
 
 
 #### TRAININGS
@@ -44,14 +45,15 @@ Event | Location | Date | Role
 * Working Open Workshop, Berlin; [link to blog](http://jk-lee.com/working-open-workshop-and-workweek/)
 * RightsCon, Creatives4Science, and San Francisco; [link to blog](http://jk-lee.com/rightscon-san-francisco/)
 * Fellowship Reflection 1 [link to blog](https://science.mozilla.org/blog/ff-joey)
+* Reflection on BC Climate Explorer [link to blog](http://jk-lee.com/bc-climate-explorer/)
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 THIMMI | Arduino  | [LINK](https://github.com/ubc-micromet/TIHMMI) | The Temperature Humidity Infrared Mobile Mapping Instrument - an opensource mobile temperature monitoring kit for the urban climate community and beyond.
-Urban CO2 Visualization | JS/D3  | [LINK]() | A visualization of my master's thesis research
+<!--Urban CO2 Visualization | JS/D3  | [LINK]() | A visualization of my master's thesis research-->
 prof-cli-geo | docker/gdal/ogr | [LINK](https://github.com/joeyklee/prof-cli-geo) | Learn geo at the unix command-line by using it in your browser.
-BC Climate Explorer | Cartodb | [LINK](https://github.com/joeyklee/bec-explorer) | An interactive data viewer for the Biogeoclimate Ecosystem Classification (BEC) zones in North America.
+BC Climate Explorer | Cartodb | [LINK](https://github.com/joeyklee/bec-explorer) | An interactive data viewer for the Biogeoclimate Ecosystem Classification (BEC) zones and climate data in British Columbia.
 MozMap | D3, meteorjs | [LINK](https://github.com/joeyklee/mozmap2015) | A map to visualize the chaos of MozFest
 
 
@@ -91,4 +93,4 @@ I met with or made significant connections with the following organizations and 
 	* Beth Schechter, Maptime
 	* Thea Boodhoo, Creatives for Science
 	* Clint Lalonde (open text books)
-	* Andrew Osheroff
+	* Andrew Osheroff (web developer extraordinaire)

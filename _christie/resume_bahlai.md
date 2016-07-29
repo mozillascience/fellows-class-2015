@@ -30,6 +30,7 @@ Event | Location | Date | Role
 
 * *Open data and data reuse plans.* Working Open Workshop. February 2016; [link to slides]()
 * *Opening the field: project based learning for the next generation of ecologists.* Michigan State University. May 2016; [link to slides](https://docs.google.com/presentation/d/1vzCDqYf7YjcCDnD0rtz4Mwemf1lOP6yjx_OANiMKJJM/edit?usp=sharing)
+* * *Opening the field: The open science and reproducible research course* iHub Nairobi. July 2016; [link to slides](https://docs.google.com/presentation/d/1vSipMKepVIHiLXV9azyZ8RxtGoHDuAI_4N9egVyhex4/edit?usp=sharing)
 * *The Open Science and Reproducible Research Course.* Ecological Society of America Meeting. August 2016; [link to slides]() *upcoming*
 * *Project-based training in reproducible research using population data produced by LTER sites.* International Long Term Ecological Research Open Science Meeting. October 2016; [link to slides]() *upcoming*
 

@@ -26,6 +26,7 @@ Event | Location | Date | Role
 
 * *Entangling the map: adventures in that fuzzy space between art and science*. Geojournews Conference. June 2016; [link to talk](); [link to slides]()
 * *Visualization as an outreach tool*. OSRR course w/ Christie Bahlai. March 2016; [link to talk](); [link to slides](https://github.com/cbahlai/OSRR_course/blob/master/19_visualization_and_outreach.md)
+* *Open source geo: Getting started with a geostack*. iHub Data Jam. [link to slides](http://joeyklee.github.io/presentations/open-source-geo-stack/#/)
 
 
 #### TRAININGS
@@ -52,8 +53,8 @@ TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 THIMMI | Arduino  | [LINK](https://github.com/ubc-micromet/TIHMMI) | The Temperature Humidity Infrared Mobile Mapping Instrument - an opensource mobile temperature monitoring kit for the urban climate community and beyond.
 <!--Urban CO2 Visualization | JS/D3  | [LINK]() | A visualization of my master's thesis research-->
-prof-cli-geo | docker/gdal/ogr | [LINK](https://github.com/joeyklee/prof-cli-geo) | Learn geo at the unix command-line by using it in your browser.
-BC Climate Explorer | Cartodb | [LINK](https://github.com/joeyklee/bec-explorer) | An interactive data viewer for the Biogeoclimate Ecosystem Classification (BEC) zones and climate data in British Columbia.
+broc-cli-geo | docker/gdal/ogr | [LINK](https://github.com/joeyklee/broc-cli-geo) | Learn geo at the unix command-line by using it in your browser.
+BC Climate Explorer | Cartodb | [LINK to repo](https://github.com/joeyklee/bec-explorer), [LINK to page](http://www.bc-climate-explorer.org/) | An interactive data viewer for the Biogeoclimate Ecosystem Classification (BEC) zones and climate data in British Columbia.
 MozMap | D3, meteorjs | [LINK](https://github.com/joeyklee/mozmap2015) | A map to visualize the chaos of MozFest
 
 
